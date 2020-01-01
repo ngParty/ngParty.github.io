@@ -1,15 +1,14 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "ngBigParty IV",
     "icons": [
         {
-            "src": "/img/big-party-v/meta/android-chrome-192x192.png",
+            "src": "/big-party-iv/meta/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/img/big-party-v/meta/android-chrome-512x512.png",
-            "sizes": "512x512",
+            "src": "/big-party-iv/meta/android-chrome-384x384.png",
+            "sizes": "384x384",
             "type": "image/png"
         }
     ],
